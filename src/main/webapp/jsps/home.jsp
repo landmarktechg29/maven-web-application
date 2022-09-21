@@ -10,7 +10,7 @@
 </head>
 <body>
 <h2 align="center">Welcome to Landmark Technologies.</h2>
-<h2 align="center"> We are supporting the Tesla Black Friday Project.
+<h2 align="center"> We are supporting the Tesla Black Friday Projects.
 	Landmark Technologies is a software development company. 
 	Class29 will run from September 21, 2022.
 	The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY</h2>
